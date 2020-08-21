@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Keep TAB refresh",
+    "description": "Keep TAB refresh on chrome."
+  },
+  "appDescription": {
+    "message": "Keep TAB refresh on chrome browser extensions",
+    "description": "Keep TAB refresh on chrome browser extensions"
+  },
+  "btnTooltip": {
+    "message": "Keep TAB refresh",
+    "description": "Keep TAB refresh"
+  }
+}
